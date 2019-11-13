@@ -1,0 +1,11 @@
+{
+  "name": "PWA",
+  "PWA",
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "website": "http://www.taraaa.com",
+  "repository": "https://github.com/mozinet/PWAKU.git",
+  "logo": "https://nodejs.org/images/logos/nodejs.png"
+}
